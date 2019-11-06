@@ -14,8 +14,6 @@ For this post in particular I'm focusing on four different libraries from the `t
 
 ### Links
 
-You can find the final article on __my website__ - 
-https://diegousai.io/2019/09/modelling-with-tidymodels-and-parsnip/
+You can find the final article on [__my website__](https://diegousai.io/2019/09/modelling-with-tidymodels-and-parsnip/)
 
-I've also published the article on __Towards Data Science__ - 
-https://towardsdatascience.com/modelling-with-tidymodels-and-parsnip-bae2c01c131c
+I've also published the article on [__Towards Data Science__](https://towardsdatascience.com/modelling-with-tidymodels-and-parsnip-bae2c01c131c)
